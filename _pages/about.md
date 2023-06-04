@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision.
  
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=sRksETcAAAAJ&citation_for_view=sRksETcAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**Code**](https://github.com/jiawangbai/DHTA-master)
-- We propose a novel method, dubbed deep hashing targeted attack (DHTA), to study the targeted adversarial examples for deep hashing based retrieval. 
+- We propose a novel method to study the targeted adversarial examples for deep hashing based retrieval. 
 </div>
 </div>
 
