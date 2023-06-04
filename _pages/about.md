@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2020</div><img src='images/eccv2020-dhta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2020</div><img src='../images/eccv2020-dhta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/pdf/2004.07955.pdf)
