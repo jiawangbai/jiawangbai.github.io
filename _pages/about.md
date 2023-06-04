@@ -38,7 +38,8 @@ My research interest includes neural machine translation and computer vision.
 **Jiawang Bai**, Bin Chen, Yiming Li, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, and En-Hui Yang
  
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=sRksETcAAAAJ&citation_for_view=sRksETcAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/jiawangbai/DHTA-master)
+- We propose a novel method, dubbed deep hashing targeted attack (DHTA), to study the targeted adversarial examples for deep hashing based retrieval. 
 </div>
 </div>
 
