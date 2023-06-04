@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2020</div><img src='../images/eccv2020-dhta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<font color="#FF0000">(Oral 2%)</font> Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/pdf/2004.07955.pdf)
+<span style="color:red">(Oral)</span> [Targeted Attack for Deep Hashing based Retrieval](https://arxiv.org/pdf/2004.07955.pdf)
 
 **Jiawang Bai***, Bin Chen*, Yiming Li*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, and En-Hui Yang
  
